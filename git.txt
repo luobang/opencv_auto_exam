@@ -1,0 +1,6 @@
+git 提交代码到远程：git push -u origin master
+git add 文件名
+git rm 文件名
+git commit -m "remove test.txt"
+git status 查看状态
+
